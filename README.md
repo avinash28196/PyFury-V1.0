@@ -2,13 +2,16 @@
 Python is an easy to learn language many beginners to coding choose as their first programming language and it is not limited to web development, as you can build games and applications for academical research with it. If you are new to programming or simply interested in learning Python, here are some resources you can use.
 
 ## Best Collection of Python Tutorials
+
   - Learning Guide- [Learn Python Online](https://www.codementor.io/learn-python-online)
   - Tutorial- [Python Tutorials for Beginners and Programmers](https://www.codementor.io/python/tutorial)
 
 ## Online Help
+
   - Online Experts- [1:1 Python Help from Proven Experts](https://www.codementor.io/python-experts)
 
 ## Platform for Python Tutorials
+
   - [Bucky's Room](https://buckysroom.org/videos.php?cat=98)
   - [Think Python](http://www.greenteapress.com/thinkpython/)
   - [Learn Python](http://www.learnpython.org/)
