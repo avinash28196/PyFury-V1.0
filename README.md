@@ -90,8 +90,6 @@ Python is an easy to learn language many beginners to coding choose as their fir
 ## Developer Tools
   - [PythonAnywhere](https://www.pythonanywhere.com/)
   - [PyDev](http://pydev.org/)
-  - [PyCharm](http://www.jetbrains.com/pycharm/)
-  - [Flake8Lint](https://github.com/dreadatour/Flake8Lint)
   - [WingWare Python IDE](https://wingware.com/)
   - [Pytest](http://pytest.org/latest/)
   - [Mock](http://www.voidspace.org.uk/python/mock/)
