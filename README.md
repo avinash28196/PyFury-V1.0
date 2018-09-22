@@ -52,7 +52,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [SQL & DataFrames](https://www.codementor.io/spark/tutorial/python-spark-sql-dataframes)
   - [Building a Movie Recommendation Service with Apache Spark & Flask](https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1), [Part 2](https://www.codementor.io/spark/tutorial/building-a-web-service-with-apache-spark-flask-example-app-part2)
 
-## Tips
+## Tips..
   - [Creating An Asset Pipeline in Python](https://www.codementor.io/python/tutorial/creating-an-asset-pipeline-in-python-with-paver)
   - [Caching Angular Partials with Python](https://www.codementor.io/python/tutorial/html-optimization-caching-angularjs-partials-templates)
   - [How do I remove the first and last rows and columns from a 2D numpy array?](https://www.codementor.io/tips/2843378231/how-do-i-remove-the-first-and-last-rows-and-columns-from-a-2d-numpy-array)
