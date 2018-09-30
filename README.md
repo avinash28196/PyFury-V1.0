@@ -74,8 +74,7 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [Stack Overflow Legend Martijn Pieters: Python Optimization and How it Can Affect Your Code](https://www.codementor.io/officehours/9015644327/stack-overflow-legend-martijn-pieters-python-optimization-and-how-it-can-affect-your-code)
 
 
-## Documentations
-  - [Python Documentations](https://www.python.org/doc/)
+
 
 ## Courses
   - [Live Python Class](https://www.codementor.io/classes/learn-python-live)
