@@ -68,11 +68,6 @@ Python is an easy to learn language many beginners to coding choose as their fir
   - [How can I get Travis-CI to recognize and open external files during testing](https://www.codementor.io/tips/8102473038/how-can-i-get-travis-ci-to-recognize-and-open-external-files-during-testing)
 
 
-## Videos
-  - [Carte-Blanche, a Django Permission Framework for Rapid Prototyping, with its creator, Eric Neuman ](https://www.codementor.io/officehours/6962831504/carte-blanche-a-django-permission-framework-for-rapid-prototyping-with-its-creator-eric-neuman)
-  - [Introduction to Machine Learning & NLP: Building a Spam Classifier](https://www.codementor.io/officehours/1385095426/building-a-spam-classifier)
-  - [Stack Overflow Legend Martijn Pieters: Python Optimization and How it Can Affect Your Code](https://www.codementor.io/officehours/9015644327/stack-overflow-legend-martijn-pieters-python-optimization-and-how-it-can-affect-your-code)
-
 
 
 
