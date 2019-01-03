@@ -1,4 +1,4 @@
-Student = ["Avi", "Anu","Gru","Sush","Mahi","Saa"]
+Student = ["Avi", "Anu","Gru","Sush","Mahi"]
 
 for name in Student:
     print("Student Name is {0}".format(name))
